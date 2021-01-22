@@ -3,3 +3,6 @@ red
 white
 grey
 yellow
+pink
+purple
+rainbow
