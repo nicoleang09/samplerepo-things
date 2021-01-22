@@ -1,8 +1,14 @@
 blue
 red
 white
+<<<<<<< HEAD
 grey
 yellow
 pink
 purple
 rainbow
+=======
+yellow
+pink
+purple
+>>>>>>> 273b25b2e02554e12b95e0c642cfc5c0e86e7c6b
